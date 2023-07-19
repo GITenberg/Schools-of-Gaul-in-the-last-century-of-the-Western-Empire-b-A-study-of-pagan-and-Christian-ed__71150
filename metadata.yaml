@@ -1,0 +1,28 @@
+_repo: Schools-of-Gaul-in-the-last-century-of-the-Western-Empire-b-A-study-of-pagan-and-Christian-ed__71150
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haarhoff, Theodore Johannes
+    gutenberg_agent_id: '56093'
+    url: http://www.gutenberg.org/2009/agents/56093
+description: ''
+gutenberg_issued: '2023-07-08'
+identifiers:
+  gutenberg: '71150'
+language: en
+pgterms:marc904: https://archive.org/details/schoolsofgaulstu00haariala
+pgterms:marc905: 20210623114133haarhoff
+pgterms:marc906: '1920'
+pgterms:marc907: UK
+production_note: Tim Lindell, Turgut Dincer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUK :$bOxford University Press, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Schools of Gaul in the last century of the Western Empire : $b A study of
+  pagan and Christian education in the last century of the Western empire'
+url: http://www.gutenberg.org/ebooks/71150
