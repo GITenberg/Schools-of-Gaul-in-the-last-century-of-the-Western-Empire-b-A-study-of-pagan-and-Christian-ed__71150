@@ -1,11 +1,16 @@
 _repo: Schools-of-Gaul-in-the-last-century-of-the-Western-Empire-b-A-study-of-pagan-and-Christian-ed__71150
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71150-h/images/cover.jpg
 creator:
   author:
     agent_name: Haarhoff, Theodore Johannes
     gutenberg_agent_id: '56093'
     url: http://www.gutenberg.org/2009/agents/56093
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71150#Schools-of-Gaul-in-the-last-century-of-the-Western-Empire-b-A-study-of-pagan-and-Christian-ed_
 gutenberg_issued: '2023-07-08'
 identifiers:
   gutenberg: '71150'
